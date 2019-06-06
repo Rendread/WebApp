@@ -1,0 +1,6 @@
+C:\Users\sreag\source\repos\WebApplication2\ClassLibrary\bin\Release\ClassLibrary.dll
+C:\Users\sreag\source\repos\WebApplication2\ClassLibrary\bin\Release\ClassLibrary.pdb
+C:\Users\sreag\source\repos\WebApplication2\ClassLibrary\obj\Release\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\sreag\source\repos\WebApplication2\ClassLibrary\obj\Release\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sreag\source\repos\WebApplication2\ClassLibrary\obj\Release\ClassLibrary.dll
+C:\Users\sreag\source\repos\WebApplication2\ClassLibrary\obj\Release\ClassLibrary.pdb
